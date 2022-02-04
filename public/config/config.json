@@ -1,0 +1,16 @@
+{
+  "CONTRACT_ADDRESS": "0xe36c78E35bb7B422C13959795B7cf5A04D6424fC",
+  "SCAN_LINK": "",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "Karafuru",
+  "SYMBOL": "Karafuru",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 285000,
+  "SHOW_BACKGROUND": true
+}
